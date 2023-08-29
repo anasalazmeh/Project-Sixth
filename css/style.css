@@ -62,6 +62,14 @@ header .containerr .logoo{
     padding: 10px;
     letter-spacing: 10px;
 }
+@media (max-width:767px)
+{
+    header .containerr .logoo{
+        font-size: 30px;
+        padding: 10px;
+        letter-spacing: 0px;
+    }
+}
 header .containerr{
     width: 100%;
     padding: 0;
